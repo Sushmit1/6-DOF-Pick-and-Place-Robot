@@ -5,8 +5,8 @@ This project implements a **Pick and Place Robot** using a **UR5 robotic arm** i
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="res_unsorted.png" alt="Unsorted Result" width="75%" />
-  <img src="res_sorted.png" alt="Sorted Result" width="75%" />
+  <img src="res_unsorted.png" alt="Unsorted Result" width="50%" />
+  <img src="res_sorted.png" alt="Sorted Result" width="50%" />
 </div>
 
 ## Features
