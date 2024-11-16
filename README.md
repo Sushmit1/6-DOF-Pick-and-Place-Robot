@@ -4,6 +4,11 @@ This project implements a **Pick and Place Robot** using a **UR5 robotic arm** i
 
 ---
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="res_unsorted.png" alt="Unsorted Result" width="45%" />
+  <img src="res_sorted.png" alt="Sorted Result" width="45%" />
+</div>
+
 ## Features
 - **UR5 Robotic Arm**:
   - Controls the motion of the manipulator to pick and place objects.
